@@ -1,0 +1,11 @@
+{
+  "name": "family-graph",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "node demo.mjs"
+  },
+  "dependencies": {
+    "@ladybugdb/core": "latest"
+  }
+}
